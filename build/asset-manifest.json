@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d748b70e.css",
+    "main.js": "/static/js/main.f78fc58e.js",
+    "static/media/yt-logo-mobile.png": "/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/index.html",
+    "main.d748b70e.css.map": "/static/css/main.d748b70e.css.map",
+    "main.f78fc58e.js.map": "/static/js/main.f78fc58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d748b70e.css",
+    "static/js/main.f78fc58e.js"
+  ]
+}
