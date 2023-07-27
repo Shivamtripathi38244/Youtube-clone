@@ -1,6 +1,14 @@
 Here is the some visuals of  the projects UI
 Home Page
-![Screenshot (56)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/fe8b292f-3d32-4123-b14c-98347a2b3e25)
+Register page 
+![Screenshot (60)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/6a5298bb-6222-4335-bd20-a0e96a95b8a7)
+Login page
+![Screenshot (61)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/f274f157-fab5-4367-b4f9-74b070e0d4f7)
+Home page
+![Screenshot (62)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/a6898dfc-76e3-4023-95ed-e3dda4bcff9f)
+Home page with crousel
+![Screenshot (63)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/ef6a86cf-fb3e-4c41-829f-5d264cc18934)
+
 
 Search Page
 ![Screenshot (57)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/37ebbad2-a92f-41a6-ae0f-ffc5884a1996)
